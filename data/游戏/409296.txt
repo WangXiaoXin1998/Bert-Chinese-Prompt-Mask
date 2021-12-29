@@ -1,0 +1,23 @@
+将自己边缘化《边缘战士》配置需求
+　　新概念FPS游戏《边缘战士》即将在下个月上市，官方刚刚公布了该作的PC系统配置需求：
+　　最低配置：
+　　CPU：英特尔Core 2 Duo2.4GHz或同等
+　　内存：2GB
+　　显卡：NVIDIA 8800GS或AMD的Radeon HD 2900Pro或同等显卡
+　　系统：Windows XP(SP3)/Vista/Windows 7
+　　硬盘：8GB可用空间
+　　推荐配置：
+　　CPU：Intel Quad Core i5
+　　内存：3GB
+　　显卡：Nvidia GeForce GTX 460或ATI Radeon™ HD 5850或更高
+　　硬盘：8GB可用空间
+　　游戏将利用Steamwork联机：
+　　Steam成就
+　　VOIP(聊天用网络电话)
+　　排行榜
+　　VAC(Valve反作弊器)
+　　游戏专用服务器
+　　好友支持
+　　Steam云存储
+　　《边缘战士》使用id Tech 4引擎所开发，这原本也是一款硬派3D风格的FPS游戏，画面自然也是该游戏很重要的一部分，从配置需求上看，如果你没有一台较新且较好的PC，那不一定能玩爽该游戏。
+

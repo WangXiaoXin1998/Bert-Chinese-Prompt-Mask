@@ -1,0 +1,23 @@
+《极品飞车14》配置要求和最新截图
+　　游戏网站WorthPlaying.com今天又公布了《极品飞车：热力追踪》的最新一批截图，共计十张，展示内容依然以丰富的赛车为主，包括多辆警车。
+　　顺便再回顾一下EA日前公布的游戏系统配置需求：
+　　最低——
+　　操作系统：Windows XP SP3/Vista/7 32/64位
+　　处理器：Core 2 Duo 1.8GHz/Athlon 64 X2 2.4GHz
+　　内存：XP 1.5GB、Vista/Win7 2GB
+　　显卡：兼容DX9.0c、256MB显存，发布时支持Radeon X1950、Radeon HD 2000/3000/4000/5000系列、GeForce 7600+、GeForce 8/9/100/200系列
+　　DX版本：9.0
+　　硬盘：8.0GB可用空间
+　　声卡：兼容DX9.0c
+　　外设：键盘、手柄
+　　推荐——
+　　操作系统：Windows XP SP3/Vista/7 32/64位
+　　处理器：Core 2 Duo E6700 2.6GHz/Athlon 64 X2 6000+或更好
+　　内存：XP 1.5GB、Vista/Win7 2GB
+　　显卡：GeForce 8800 GT/Radeon HD 4700或更好
+　　DX版本：9.0
+　　硬盘：8.0GB可用空间
+　　声卡：5.1声道
+　　外设：键盘、手柄，推荐Xbox 360手柄
+　　注意：本游戏不支持Windows 98/ME/2000/NT操作系统
+

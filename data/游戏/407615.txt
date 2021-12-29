@@ -1,0 +1,7 @@
+Codemasters全线赛车游戏升级到DX11
+　　今天早些时候，Codemasters宣布旗下竞速游戏《科林麦克雷：尘埃2》PC版将抢先支持DirectX 11。实际上，这将是Codemasters的一次引擎整体升级计划，受惠的不仅仅是《尘埃2》一款游戏。
+　　《DiRT 2》使用的EGO引擎将整体部署DirectX 11技术，支持图形多线程、硬件Tessellation以及SM5.0等新特性。在《DiRT 2》之后，Codemasters另外两款使用该引擎的不同风格赛车大作《Race Driver: GRID 2》以及《F1 2010》也将同样支持DirectX 11。
+　　据Codemasters介绍，在引入DX11后，这几款游戏的画面会有明显提升，包括水面/镜面反射和折射，观众人群描绘，AO环境光遮蔽以及阴影效果等。尤其对于EGO引擎来说，动态模糊和景深效果的表现将迎来彻底的革新。
+　　在Codemasters背后，帮助他们抢先实现DX11支持的是AMD公司。据称AMD为Codemasters提前提供了代号“Evergreen”的DX11显卡供开发测试，并派驻了一队工程师帮助EGO引擎转向DX11。
+　　微软公司最新的操作系统Windows 7即将在2009年7月之内发行，这款操作系统已经内置DirectX 11。
+

@@ -1,0 +1,38 @@
+《使命召唤7：黑色行动》发布更新档
+　　刚刚约8点多官方放出第一次更新档案，大小约5.1MB。
+　　凌晨时放出第二个更新档案，单机为7.6MB多人为8.0MB，没看见官方关于修改的文章。
+　　也还没进行测试，等等附上测试结果，
+　　如果看不到更新请点"右键->内容->本机档案->确认游戏快取完整性"，STEAM就会出现下载了。
+　　下面是官方放出的暂时解法，不一定有效，除了第三点前面都是屁话。
+　　For all the PC players out there, we have a few tips and tweaks that should help you get the most out of your PC performance while we await a patch that Treyarch is in the process of developing and pushing out。
+　　The following tip was submitted to us by a member of the staff over at Curse。
+　　Here are a few tweaks that will help you a lot:
+　　Install latest directx version (this helped the most) ? you can grab that here。
+　　Install new graphics card drivers (ATI and Nvidia)
+　　Make sure to allow Black Ops to use multi cores: go to your steam folder, which was Local 　　DisK\Steam\steamapps\common\call of duty black ops\players for me. This may vary for you, however. Search for “seta r_multithreaded_device 0″ and change it to “seta r_multithreaded_device 1″. Do this for singleplayer and multiplayer。
+　　We hope that this helps increase your PC performance while we wait for Treyarch to get that sorted out for us. We know they are working hard on that for us, but wed like to give you the best game you can have while we wait 。
+　　Good luck and feel free to let us know in the comments or over at the forum how this worked for you, and dont hesitate to throw any more tips and tweaks out there for the PC community。
+　　1.安装最新的Directx(这个帮助最大)
+　　2.安装最新的显示卡驱动程式。
+　　3.进入steam资料夹，找到player文件夹下的config.cfg(X:\Steam\SteamApps\common\call of duty black ops\players 就是这个档案，有两个，后面有MP的是连线，都要更改。)，用笔记本打开，查找seta r_multithreaded_device并把后面的0改成1 (允许游戏使用多核心处理)
+　　等测试完再看看有没有改善。
+　　心得：
+　　我开心的笑了，更新包有点用处的说，
+　　刚开始片头还是会LAG等进入游戏后就没有这个问题了，
+　　我是I5，GTS250，4GRAM。
+　　续玩下去发现跟动画有关，只要一跑过场动画就会开始停顿，
+　　似乎是因为把动画跟游戏读取放一起导致的问题，
+　　不过还没看到CPU爆表，还算满意，游戏中也没发生停顿的问题。
+　　实验后证实，读取时会导致影片严重延迟，
+　　当画面出现点左键继续后的影片都是正常拨放，
+　　到底是哪个白痴把读取时间调的那么短的=ㄦ=
+　　虽然这样很有连续性，感觉一直都在游戏中，但是根本跑不动啊，
+　　难怪I7以上的才可以勉强跑，不然就只能请神手压缩影片大小来改善了。
+　　原本想制造的一直在游戏气氛中，完完全全被破坏了，谁会说话到一半突然停住啊！!!
+　　这下?翻了，小玩一下连线，没有想像中的严重LAG到爆，顶多就是偶尔晃一下，
+　　不过STEAM伺服器连线不是很稳定，我就发生两次没有退出就断线，
+　　XXX，我练到10等的记录就再见了QAQ
+　　这跟STEAM一定要退出到桌面才会启动记录成绩有关吗？!!
+　　这样很危险的说，外一不小心断线刚刚就白玩了QAQ
+　　对了，我STEAM的ID是a7199493可以加我一起游戏喔>.0
+

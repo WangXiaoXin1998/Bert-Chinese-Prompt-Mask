@@ -1,0 +1,23 @@
+《刺客信条：启示录》PC配置要求公布
+　　育碧官方论坛管理员公布了《刺客信条：启示录》的最低配置需求及推荐配置需求，PC版将于12月2日发布，主机版则在11月15日发布。
+　　值得一提的是，《刺客信条：启示录》取消了DRM加密。
+　　最低配置要求：
+　　系统：Windows XP SP3 / Windows Vista SP2 / Windows 7 SP1
+　　CPU： Intel Core 2 Duo E4300@1.8 Ghz或AMD Athlon64 X2 4600@2.4GHZ
+　　内存：1.5 GB Windows XP / 2 GB Windows Vista或Windows 7
+　　硬盘：12 GB可用空间
+　　显卡：显存256MB 支持DirectX 9.0及Shader Model 3.0或更高
+　　光驱：DVD-ROM Drive
+　　声卡：支持DirectX 9.0
+　　推荐配置要求：
+　　系统：Windows XP SP3 / Windows Vista SP2 / Windows 7 SP1
+　　CPU：Intel Core 2 Duo E6700@2.6 GHz或AMD Athlon64 X2或更高 6000@3.0Ghz
+　　内存：1.5 GB Windows XP / 2 GB Windows Vista或Windows 7
+　　硬盘：12 GB可用空间
+　　显卡：显存512MB 支持DirectX 9.0及Shader Model 3.0或更高
+　　光驱：DVD-ROM Drive
+　　声卡：支持5.1声道
+　　显卡支持列表：
+　　AMD ® Radeon ® series HD2000/3000/4000/5000/6000 desktop
+　　NVidia GeForce ® series 8/9/GT200/GT400/GT500 desktop
+

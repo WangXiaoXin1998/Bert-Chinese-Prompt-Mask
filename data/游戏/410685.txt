@@ -1,0 +1,6 @@
+Symbian系统即将正式登录上网本平台
+　　上个月SOSCO团队曾成功的将Symbian系统移植到一台标准的Atom PC上，被移植的系统使用了S60界面，操作流程并可直接运行OpenGL Demo程序。昨天，Symbian基金会主席Tim Holbrow在接受采访时表示，Symbian系统有可能很快正式登陆Netbook上网本平台，他表示：“Symbian现在已经可以在Netbook上运行”。
+　　Holbrow认为，Netbook可能会在未来演变成目的单一的移动设备。“我的理想是，未来上网本变得更小，人们可以从各种渠道获取数据，他们可以使用无线键盘和触摸屏输入输出。”
+　　“我认为，Symbian可以作为上网本操作系统的有力补充”。
+　　虽然Symbian系统因为诺基亚等手机厂商而获得成功，但是Symbian系统现在已经开放源码，由非盈利性组织Symbian基金会完全控制。有趣的是，Symbian操作系统的前身为Psion的EPOC系统，而EPOC就是一款专为移动设备及掌上电脑设计的系统。
+

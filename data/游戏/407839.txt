@@ -1,0 +1,6 @@
+《普里皮亚季的召唤》英文版明年发售
+　　有报道指出，尽管《潜行者：普里皮亚季的召唤》（S.T.A.L.K.E.R.： Call of Pripyat）俄版已进厂压盘，且俄、乌两地将于10月2号面市，但其它地区仍要耐心等待：德版预计11月发布，英文版及其它各语种则要等到明年第一季度。
+　　官方日前公布了《潜行者：普里皮亚季的召唤》的硬件配置要求：
+　　最低：　　操作系统： Windows XP　　CPU：2.0GHz Intel Pentium 4 或 AMD Athlon 2200+　　RAM：512 MB　　GPU：128 MB RAM 兼容 DirectX 8.0 比如 GeForce 5700 或 Radeon 9600
+　　推荐：　　操作系统： Windows Vista　　CPU：Intel Core 2 Duo E7400 或 AMD 64 X2 5600+　　RAM：2 GB　　GPU：512 MB RAM 兼容 DirectX 9 或 10 比如 GeForce 9800GTX 或 Radeon HD4850
+

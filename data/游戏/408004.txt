@@ -1,0 +1,9 @@
+《黑暗虚无》游戏官方最低配置公布
+　　由Airtight Games开发的《黑暗虚无》是一款混合了空中格斗和地面第三人称动作游戏。游戏开始，我们的主角，货运飞机驾驶员Will 在穿越百慕大三角时，被卷入了外星空间，在那里他遭遇到了一种被称为Watcher(观察者)的邪恶敌对种族。
+　　《黑暗虚无》游戏官方最低配置：
+　　处理器： Intel 2.4Ghz or AMD 2.0 GHz
+　　显卡： GeForce 7900 or Radeon HD 3850 series DX 9
+　　内存： 1 GB RAM
+　　系统： Windows Vista/XP
+　　硬盘需求： 10 GB free space
+

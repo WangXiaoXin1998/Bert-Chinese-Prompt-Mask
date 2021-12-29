@@ -1,0 +1,21 @@
+《荣誉勋章》系统配置配要求正式公布
+　　在EA公布了《荣誉勋章》PC版的多人beta测试时间，计划10月4日发布，运行三天，10月7日结束，随着公布了游戏系统配置要求为：
+　　最低系统配置要求：
+　　操作系统：Windows XP (SP3)， Windows Vista (SP2)， Windows 7
+　　处理器：奔腾D, 3.2GHz / 酷睿2双核， 2.0GHz / 速龙64 X2
+　　内存：2GB RAM
+　　显卡：显存至少为256M或更多，显卡型号为下列所述或更好显卡——NVIDIA GeForce 7800 GT；ATI X1900。上述显卡的移动版或可顺利游戏，但并不被官方支持，可能需要玩家升级自己的显卡和声卡驱动。
+　　硬盘空间：9GB
+　　声卡：DirectX 9.0c兼容声卡
+　　DirectX：DirectX 9.0c
+　　光驱：8x以上CD/DVD光驱
+　　推荐系统配置要求：
+　　操作系统：Windows Vista (SP2)， Windows 7
+　　处理器：四核酷睿 2.0Ghz
+　　内存：2GB RAM+
+　　显卡：512M显存以上，显卡型号为下列所述或更好显卡——NVIDIA GeForce GTX260；ATI Raedeon 4870
+　　硬盘空间：9GB
+　　声卡：DirectX 10兼容声卡
+　　DirectX：DirectX 10
+　　光驱：16X CD/DVD光驱
+

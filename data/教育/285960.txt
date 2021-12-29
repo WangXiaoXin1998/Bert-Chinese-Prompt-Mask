@@ -1,0 +1,69 @@
+超全总结：SAT阅读的三种出题方式
+　　二、SAT阅读的出题方式
+　　在阅读试卷里有三类试题。第一类是句子填空题，第二类是短文问答题，第三类是长文问答题。
+　　1.句子填空试题
+　　这类试题分布在两个试卷中，共有18道。题型是在一个完整的句子里，把一个或两个词抽出，并在抽出位置的下面画上线以示意这里需要填上一个词。题目要求考生在5组选项中(一个词或两个词)，找出最佳答案。被抽出的词可能是名词、动词或形容词等；句子也可能是简单句、并列句或者是复合句。
+　　2.短文问答题
+　　这类试题存在于两个试卷中，每张卷子中有两篇短文，每篇短文有100个词左右，短文可能是各种题材的段子；两组短文共8道试题，每个短文各自独立并有各自不同的问题，问题都是围绕短文内容提问的。
+　　3.长文问答题
+　　这类题目是阅读部分的核心，所占比例最大，在3份试卷中都有长文，它可分为两种：单独的长文和对比性文章。单独的长文长达100行左右，800-900个单词，并跟有十来道问题；对比性文章是由两篇文章组成，每篇文章约有40-50行，400字左右，最后给出一些问题，一些是关于其中一篇文章的，而另一些则是关于两篇文章的对比关系的。
+　　长文通常涉及的问题类型包括：本篇文章的主要观点及中心主题；在本篇文章中作者对所论述问题的态度及基本观点；判断所阅读文章的体裁形式；什么是文章中的基本事实；阅读材料的含义或暗指是什么；难词、偏词、怪词及多义词在这篇文章中的准确意思是什么等等。
+　　三、SAT阅读的特点和应试技巧
+　　1.句子填空题
+　　由于考试时间紧迫，考生应当遵循先易后难的原则，因为SAT填空试题一般是由易到难的顺序出题，故可按题的顺序做题。对于位于后面的一些难度比较大的题型，往往很难直接将答案选出，故可大胆采取排除法，将错误答案排除，逐渐缩小选择范围，最后得出正确答案。
+　　2.短文问答题
+　　解这类问题时首先不要由于它们短而小看它们。正因为它们短，所以内容比较集中，这就更应该仔细地读。由于两篇文章各自独立互不影响，又没有关联到两篇文章的问题，更主要的是题目少，便于记忆，所以可以先看问题，后看文章。
+　　3.长文问答题
+　　对于这类题，一般是先看文章后看问题，看文章要弄清楚文章的结构、逻辑关系、作者的态度等等，还要看出文中的观点(通常文中的观点不止一个，因此要搞清楚它们之间的关系，是相互支持还是相互对立)。这种长文章涉及的范围也很广，各个学科都可能涉及到，而且专业词汇很多，难词偏词也不少。由于长文阅读需要较大的词汇量，且文章较长，阅读的时间又很短，所以抓住重点是关键，可能你会说把所有的内容都记住不是更好吗，说实话，这几乎是不可能的。
+　　对于这种阅读，先看第一篇文章，然后回答与第一篇文章相关的问题，再看第二篇文章，之后回答与第二篇文章相关的问题，最后回答与两篇文章相关的问题。要牢记找答案的根据是文章里的叙述，而不是你的常识，另外选择答案中可能有几个都不错，这时你要选择其中你认为比较好的那个。
+　　每一篇文章均有其主要观点或中心主题。这些题往往比较难，望考生在读文章时就应注意。常见的提问方法有：这篇文章中作者的主要目的是什么？这篇文章主要涉及什么问题？这篇文章主要建议是什么？这篇文章总体上想要回答什么问题等等。
+　　四、SAT阅读典型试题
+　　为了让读者感受一下SAT阅读试题，下面给出了从真题中抽取出的一部分题目，并把它们按类型分成三个组。
+　　1.句子填空试题
+　　1. Many private universities depend heavily on -------, the wealthy individuals who support them with gifts and bequests。
+　　(A) Instructors   (B) administrators   (C) monitors   (D) accountants    (E) benefactors
+　　2. One of the characters in Milton Murayama’s novel is considered ------- because he deliberately defies an oppressive hierarchical society。
+　　(A) rebellious    (B) impulsive     (C) artistic    (D) industrious    (E) tyrannical
+　　3. Nightjars possess a camouflage perhaps unparalleled in the bird world: by day they roost hidden in shady woods, so ------- with their surroundings that they are nearly impossible to -------。
+　　(A) vexed . . dislodge                (B) blended . . discern  
+　　(C) harmonized . . interrupt           (D) impatient . . distinguish  
+　　(E) integrated . . classify
+　　4. Many economists believe that since resources are scarce and since human desires cannot all be -------, a method of ------- is needed。
+　　(A) indulged . . apportionment     (B) verified . . distribution
+　　(C) usurped . . expropriation      (D) expressed . . reparation
+　　(E) anticipated . . advertising
+　　2.短文阅读试题
+　　Questions 5-8 are based on the following passages。
+　　Passage 1
+　　Line     I know what your e-mail in-box looks like, and it
+　　isn’t pretty: a babble of come-ons and lies from hucksters
+　　and con artists. To find your real e-mail, you must wade
+　　through the torrent of fraud and obscenity known politely
+　　5  as “unsolicited bulk e-mail” and colloquially as “spam。”
+　　In a perverse tribute to the power of the online revolution,
+　　we are all suddenly getting the same mail: easy weight
+　　loss, get-rich-quick schemes, etc. The crush of these messages
+　　is now numbered in billions per day. “It’s becoming
+　　10  a major systems and engineering and network problem,”
+　　says one e-mail expert. “Spammers are gaining control of the Internet。”
+　　Passage 2
+　　Many people who hate spam assume that it is protected
+　　as free speech. Not necessarily so. The United States
+　　15  Supreme Court has previously ruled that individuals
+　　may preserve a threshold of privacy. “Nothing in the
+　　Constitution compels us to listen to or view any unwanted
+　　communication, whatever its merit,” wrote Chief Justice
+　　Warren Burger in a 1970 decision. “We therefore category-
+　　20 cally reject the argument that a vendor has a right to send
+　　unwanted material into the home of another。” With regard
+　　to a seemingly similar problem, the Telephone Consumer
+　　Protection Act of 1991 made it illegal in the United States
+　　to send unsolicited faxes; why not extend the act to include
+　　25   unsolicited bulk e-mail?
+　　5. The primary purpose of Passage 1 is to
+　　(A) make a comparison
+　　(B) dispute a hypothesis
+　　(C) settle a controversy
+　　(D) justify a distinction
+　　(E) highlight a concern
+

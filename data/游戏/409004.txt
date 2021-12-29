@@ -1,0 +1,30 @@
+《龙腾世纪2》配置要求与首个DLC公布
+　　【新浪游戏专稿，转载请注明出处。】
+　　1月10日，BioWare公布了RPG大作《龙腾世纪2(Dragon Age 2)》的首个DLC内容，随后公布了PC版的配置要求。
+　　《龙腾世纪2》的首款DLC名为《被放逐的王子》。这款DLC的首个预告片展现了名为Sebastian Vael的弓箭手在其家族被谋害后踏上了寻仇之路。玩家将在游戏中期加入到他的任务，作为王室唯一的后嗣，他必须一雪前仇夺回他的王室称号，朝向Kirkwall展开这神圣的复仇。另外，玩家也可以将Sebastian纳入麾下。
+　　EA介绍说，“我们打造《龙腾世纪2》DLC的宗旨是延伸Hawke的冒险之旅，也是借附加的角色通过厚重的故事剧情和激烈多变的任务来阐述《龙腾世纪》的世界。”游戏的执行制作人Mark Darrah说道。“玩家不仅可以通过《被放逐的王子》体会到Sebastian的复仇故事，还可以将他收编成为队友，让他伴随Hawke的冒险之路。”
+　　DLC《被放逐的王子》将包含3个任务，将随《龙腾世纪2》一同发售。在1月11日前订购《龙腾世纪2》的玩家将自动升级为《龙腾世纪2》 BioWare签售版，其中包含附加的DLC《被放逐的王子》，数字原声音乐以及独占装备：变节者之勇，探索者之堡垒，Antiva的蟒蛇，司登之威。
+　　《龙腾世纪2》的系统要求：
+　　推荐配置
+　　CPU：Intel Core 2 Quad 2.4 G或等效CPU
+　　CPU：AMD Phenom II X3 Triple core 2.8 G或等效CPU
+　　内存：2GB(4 GB Vista或Windows 7)
+　　显卡：ATI 3850 512 MB以上
+　　显卡：NVIDIA 8800GTS 512 MB以上
+　　DirectX 11：ATI 5850以上
+　　DirectX 11：NVIDIA 460以上
+　　最低配置
+　　系统：Windows XP SP3
+　　系统：Windows Vista SP2
+　　系统：Windows 7
+　　CPU：Intel Core 2 Duo 1.8 G(或等效CPU)
+　　CPU：AMD Athlon 64 X2 1.8 G(或等效CPU)
+　　内存：1 GB(1.5 GB Vista或Windows 7)
+　　显卡：Radeon HD 2600 Pro 256MB
+　　显卡：NVIDIA GeForce 7900 GS 256MB
+　　光驱：DVD
+　　硬盘：7 GB
+　　声卡：Windows评分4.5的Direct X 9.0c兼容声卡
+　　《龙腾世纪2》预计将于2011年3月8日在北美地区上市，届时还将发售典藏版。典藏版上市时将会比一般版贵上20美元，将附赠游戏原声带、一组可供玩家下载特殊角色、任务的序号以及额外的4种武器。
+　　编译/熊猫
+

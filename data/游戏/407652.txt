@@ -1,0 +1,17 @@
+《红色派系：游击队》PC配置要求公布
+　　THQ昨日宣布，由Volition出品的火爆动作游戏《红色派系：游击队》（Red Faction：Guerrilla）将于9月11号与欧洲及大洋洲地区的PC玩家见面，北美地区则为9月15号。
+　　该作早在6月初就光临了主机平台，PC版原定8月25号发布，现已推迟至九月份。
+　　该作强调的是环境可破坏特性，玩家在游戏中可大肆破坏。系统需求如下：
+　　最小需求
+　　Windows XP/Vista
+　　2.0 GHz 双核处理器（Intel Core 2 Duo或是AMD Athlon X2）
+　　1GB系统内存
+　　15GB磁盘空间
+　　128MB显存，显卡需支持SM3.0特性（GeForce 7600GT/ATI Radeon X1300或更高）
+　　建议配置
+　　Windows XP/Vista
+　　3.2 GHz双核处理器（原文如此）
+　　2GB系统内存
+　　15GB磁盘空间
+　　256MB显存，显卡需支持SM3.0特性（GeForce 8800GT/ATI Radeon HD3850或更高）
+

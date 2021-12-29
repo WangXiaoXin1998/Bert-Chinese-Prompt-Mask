@@ -1,0 +1,10 @@
+《使命召唤 现代战争2》配置要求公布
+　　据北美游戏网络商店GameStop显示的信息，年度FPS大作《使命召唤6：现代战争2》（Call of Duty: Modern Warfare 2）PC版配置要求放出，具体如下：
+　　最低配置要求：
+　　操作系统： Windows Vista/XP
+　　CPU： AMD 64 3200+ 或 Intel Pentium 4 3.0GHz 或更高
+　　内存： 512 MB 显存 (XP) / 1 GB 显存 (VISTA)
+　　显卡： 支持 Shader 3.0 256 MB nVidia GeForce 6600GT / ATI Radeon 1600XT 或更高
+　　硬盘空间： 16 GB 剩余硬盘空间
+　　本作已锁定今年11月10日发售，登陆平台：PC/XBOX360/PS3，XBOX360版将限时独占两张游戏地图，将由Infinity Ward工作室负责开发。
+

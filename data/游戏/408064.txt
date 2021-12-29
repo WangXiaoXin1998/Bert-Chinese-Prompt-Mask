@@ -1,0 +1,14 @@
+《异形大战铁血战士》配置要求公布
+　　由Rebellion开发、世嘉发行的科幻射击游戏《异形VS铁血战士》(Aliens vs. Predator)现已确定发售日期。根据世嘉的《异形VS铁血战士》官方网页的信息，本作将于2010年2月19日上市，对应PC、PS3和Xbox 360平台。
+　　这部根据电影改编的游戏也同样存在着三方势力，一方是人类海军陆战队，一方是异形，还有一方是铁血战士，游戏中玩家可以选择的是海军陆战队或者是铁血战士甚至是异形。本作提供单人模式和多人模式。
+　　最低配置要求：
+　　系统：Windows 7/ XP/Vista
+　　内存：1 GB System RAM (XP)/ 2 GB System RAM (Vista)
+　　处理器：3.2 GHz Intel Pentium 4/Athlon 64 3000+ 或更高
+　　显卡：支持DirectX 9.0c 128 MB RAM 显存(NVIDIA 6600 或更高， ATI X1600 或更高)
+　　推荐配置要求：
+　　系统：Windows 7/ XP/Vista
+　　处理器：Intel Core 2 Duo E6400 或更高
+　　内存：2 GB System RAM
+　　显卡：支持DirectX 9.0c 512 MB RAM (NVIDIA 8800 系列， ATI HD2900 PRO 或更高)
+

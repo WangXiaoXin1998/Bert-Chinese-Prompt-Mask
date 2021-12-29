@@ -1,0 +1,23 @@
+多项改进 尼康Capture NX2再次升级
+    尼康公司日前对外发布了Capture NX2影像处理软件的最新版本，版本号码为Ver 2.1.1（分别对应Windows和MAC系统）。据悉，本次程序升级主要是为了令Capture NX2可以支持尼康最新发布的D3x数码单反相机，不过其他改进项目也不少，以下是Capture NX2 Ver 2.1.1的具体改进细节：
+     Capture NX2 Ver 2.1.1 Windows版本：
+    1.支持D3x所拍摄的RAW文档
+    2.修正了当使用其他公司的滤镜处理RAW文档时，Capture NX2会停止运行的问题
+    3.可以支持搭载非尼康品牌GPS写入到照片当中的EXIF信息
+    4.修正打开TIFF（LZW）格式照片时，照片被强行关闭的问题
+    5.修正了部分使用Capture NX Ver.1.x版本修改保存的NEF文件，在Capture NX2下会强行关闭的问题
+    6.修正了上一版本在某些情况下无法保存对照片的修改的问题
+    7.修正了某些情况下保存失败的问题
+    8.修正了打开复数照片时，灰点设置可能出错的问题
+    9.修正了某些情况下降噪功能失效的问题
+    Capture NX2 Ver 2.1.1 MAC版本：
+    1.支持D3x所拍摄的RAW文档
+    2.支持Mac OS X 10.5.5操作系统
+    3.修正了当使用其他公司的滤镜处理RAW文档时，Capture NX2会停止运行的问题
+    4.可以支持搭载非尼康品牌GPS写入到照片当中的EXIF信息
+    5.修正打开TIFF（LZW）格式照片时，照片被强行关闭的问题
+    6.修正了部分使用Capture NX Ver.1.x版本修改保存的NEF文件，在Capture NX2下会强行关闭的问题
+    7.修正了上一版本在某些情况下无法保存对照片的修改的问题
+    尼康Capture NX2 Ver 2.1.1下载地址：http://www.nikon-image.com/jpn/support/downloads/digitalcamera/software/nx.htm
+
+

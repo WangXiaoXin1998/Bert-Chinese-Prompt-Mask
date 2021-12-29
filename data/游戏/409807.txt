@@ -1,0 +1,7 @@
+孤岛危机2引擎免费开放 遭疯狂下载
+　　说起免费又热门的游戏引擎，可能不少开发者会想到的是Epic的虚幻3代Unreal Engine 3甚至是Valve老迈的Source。不过Crytek横插一脚使得这一状况瞬间得到改变，自8月17日该公司免费在开发者网站发布《Crysis 2》使用的引擎CryENGINE 3以来，短短5天时间下载人数就已突破10万次。
+　　Crytek在本周一称，开发者在不做商业用途的前提下可以任意使用CryENGINE 3引擎。如果有人想用它做游戏去卖，Crytek也提供商业版本及引擎源代码，只不过游戏收入要分成给Crytek 20%。
+　　CryENGINE 3容量约658MB，可以在Crydev.net免费下载。截至此时，下载人数已经突破13万，该套件对开发者和成品用户的最低硬件要求如下：
+　　—开发者：Windows XP/Vista/7操作系统(推荐Win7)，Intel Core 2 Duo 2GHz/AMD Athlon 64 X2 2GHz以上CPU，2GB以上系统内存(推荐4GB)，NVIDIA 8800GT 512M/ATI HD 3850 512M以上显卡
+　　—成品游戏用户：Windows XP SP2/Vista SP1或SP2/7操作系统，推荐多核处理器，1GB系统内存(推荐2GB)，支持SM 3.0/DirectX 9.0b以上显卡如NVIDIA 6800系列。
+

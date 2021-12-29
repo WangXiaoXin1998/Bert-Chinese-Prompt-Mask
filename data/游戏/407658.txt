@@ -1,0 +1,16 @@
+PC版《生化危机5》最低配置要求公布
+　　履行跨平台策略的CAPCOM果然说到做到，只要是热卖的家用机游戏都会推出PC版本继续捞一票，从《失落的星球》《鬼泣4》《街头霸王4》等无一例外，当然全球销售破400万套的《生化危机5》也一定不会少，日前CAPCOM也宣布了PC版《生化危机5》将于9月17日推出，PC版则会以TV版基础移植，但加入了PCAME版本的新内容，包含： 
+　　对应“NVIDIA GeForce 3D Vision”技术，支持立体眼镜
+　　升级版“佣兵模式”，敌人数压倒性登场，数量是家用机版的三倍
+　　新增男女主角新服装
+　　游戏最低硬件配备为：
+　　操作系统：Windows XP（建议Windows Vista）
+　　CPU：Pentium D以上（建议Core 2 Quad以上）
+　　内存：512MB以上（建议1GB以上）
+　　硬盘：8.0GB以上
+　　屏幕分辨率：800 * 600 以上（建议1280 * 720 以上）
+　　显卡：支持DirectX 9.0c/Shader 3.0，NVIDIA Geforce 6800 以上显卡（建议NVIDIA GeForce 9800以上显卡）
+　　光驱：DVD9光驱
+　　声卡：DirectX 9.0c 以上
+　　输入装置：键盘鼠标（建议Xbox 360 Controller for Windows游戏手把）
+

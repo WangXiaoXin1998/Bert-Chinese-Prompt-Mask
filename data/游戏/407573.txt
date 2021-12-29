@@ -1,0 +1,6 @@
+《王权2》将采用GOO技术保护游戏版权
+　　2000年由Microprose发行、Cyberlore Studios开发的王国建设模拟游戏《王权》在当年取得了极高的业内评价，如今它的续作也即将问世。《王权2：幻想王国》（Majesty 2:The Fantasy Kingdom Sim）就如其名，是款中世纪幻想世界为背景的王国建设模拟游戏。如今游戏的开发商换成了Ino-Co，发行商也换成Paradox Interactive。
+　　游戏里玩家不仅要抵御怪物的侵袭，还可以向市民收取税金、建造公共设施，逐渐把城市建造成大都市。
+　　游戏发行商Stardock今天宣布，Paradox Interactive已经为《王权2》选择了GOO技术作为游戏的加密技术。GOO技术全称Game Object Obfuscation，是Stardock最近开发的一种新型的游戏发行方案，Goo技术包含于Stardock的Impulse Reactor虚拟平台（类似于Valve的Steam）之中，游戏开发商只需要利用Stardock提供的工具将游戏封装在一个程序包中，再提供了游戏玩家下载即可。而玩家在下载完成游戏之后，在第一次运行游戏之前，只需要在线激活一次，就可以顺利进行游戏，以后再无需接上网络。玩家激活之后，可以将游戏分别装在多台电脑上，无需再次激活。
+　　Stardock公司试图以Goo技术来解决困扰游戏界很久的反盗版问题。或许未来防盗版的趋势会是采用网络发行的方式。
+

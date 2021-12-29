@@ -1,0 +1,8 @@
+NVIDIA 3D Vision解决方案在台湾上市
+　　NVIDIA今日宣布，NVIDIA 3D Vision立体3D影像软硬件解决方案正式在台湾上市，带领玩家通过电脑就可感受3D游戏与影片的新视觉体验。台湾成为亚洲第二个上市地区。
+　　NVIDIA今日在台举办上市记者会，现场以《街头霸王4》等游戏来展示3D Vision立体3D影像软硬件解决方案，并结合最新Samsung与ViewSonic的120 Hz液晶萤幕、Mitsubishi DLPR高画质电视等硬件设施，用户戴上电子偏光眼镜后，可以看见清晰的立体3D游戏、电影、图片等画面。现场同时播放众多游戏的3D立体影像，包括《魔兽世界：巫妖王之怒》、《孢子》、《镜之边缘》、《街头霸王4》等。
+　　NVIDIA业务总监郭文聪表示，台湾为此项产品在亚洲上市的第二个地区，目前可配合NVIDIA 3D Vision游戏超过350款，且3D电影和越来越多对3D效果需求极高的网络应用，相信会让立体3D影像市场有庞大商机的杀手级应用。玩家若是想要使用NVIDIA 3D Vision，建议显示卡配备要为9600 GT或以上规格。
+　　NVIDIA 3D Vision在台湾将由宣品负责代理。宣品董事长唐文生表示，为了推广NVIDIA 3D Vision，预定将在全台建置12个展示中心，第一个展示中心将设在台北光华商场的MYMYPC，届时玩家将可以现场体验身历其境的3D游戏与影像感受。为了让玩家深入体验此项产品搭配Samsung 32233RZ 120Hz液晶萤幕的3D立体环境，宣品计划于10月10日邀请曾蝉联12次射击游戏世界冠军的Abdisamad "SpawN" Mohamed来台，由SpawN与WCG台湾代表队UMX-Gaming来场3D游戏示范赛。
+　　NVIDIA表示，整个NVIDIA 3D Vision套件包括一副3D Vision主动式电子偏光眼镜、眼镜袋、可调整鼻垫以及超细纤维清洁布；NVIDIA 3D Vision USB控制器/IR发射器； 定制化VESA Stereo至2.5mm立体声讯连接线；DVI至HDMI连接线；USB 2.0 type A至5-pin mini-B连接线；充电连接线；快速启动指南；安装CD片。建议零售价格为6990元新台币。现场同时展示Fujifilm推出支持立体3D影像拍摄的新款数码相机。
+　　UMX-Gaming队员今日在记者会现场也以《街头霸王4》示范3D立体游戏的感觉。宣品指出，为了推广NVIDIA 3D Vision，他们将与光华商场合作推出含NVIDIA 3D Vision、Samsung液晶萤幕与游戏专用主机的整套解决方案。
+

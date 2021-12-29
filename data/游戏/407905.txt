@@ -1,0 +1,13 @@
+太空射击《破碎地平线》发布日期确定
+　　Futuremark的PC独占零重力打枪游戏《破碎的地平线》（Shattered Horizon）定于11月4号以线上发布的形式与玩家见面。
+　　目前已知有两个发布途径：Steam，及官方网站。官价19.95美元。
+　　Futuremark许诺会为该作提供后继更新，比如新场景和新特色，且面向所有用户免费发放，但预订顾客可提前接触到这些新内容，权当是义务测试一把。
+　　由于该作是一款纯粹的多人打枪游戏（无单机剧情），Futuremark称至该作发布之时会有北美、欧洲，新/澳地区的官方服务器上线；为弥补其它地域的空白，公司特别鼓励那些有能力的团体或个人自行架设战队服，如需服务器端代码可与fgs@futuremark.com联系。
+　　附该作系统需求：
+　　最小需求
+　　·Vista/Windows 7（强制要求DX10）　　·Intel Core 2 Duo E6600 / AMD Athlon64 X2 5600+　　·NVIDIA GeForce 8800GT / ATI Radeon HD 3870　　·显存至少256MB，系统内存至少2GB　　·1.5GB磁盘剩余空间
+　　推荐配置
+　　·Intel Core 2 Quad Q6600 / AMD Phenom II X4 940　　·NVIDIA GeForce GTX 260 / ATI Radeon HD 4870　　·显存至少512MB，系统内存至少2GB　　·1.5GB磁盘剩余空间
+ 
+ 
+

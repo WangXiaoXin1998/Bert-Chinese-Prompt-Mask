@@ -1,0 +1,9 @@
+《海岛大亨3》硬件系统配置要求公布
+　　Kalypso Media今天公布了旗下的广受欢迎的策略模拟大作《海岛大亨3》的最低系统要求和推荐系统要求，本作将于9月发售。
+　　《海岛大亨3》由保加利亚游戏开发商Haemimont Games开发，将为玩家提供“先进的画面效果、系列一贯的游戏方式和更全面的多人模式”。
+　　《海岛大亨》系列玩家将扮演一名岛国的君主，通过发展经济和科技等手段将小岛建设成一个繁荣的国度玩家可以定制自己喜爱的人物。
+　　最低系统需求：
+　　CPU：2.4 GHz CPU　　显卡：NVIDIA Geforce 6 或更高，ATI X1300 或更高　　DirectX 9　　内存：1 GB　　硬盘空间：5 GB
+　　推荐系统需求：
+　　CPU：Intel Core 2 Duo E6400 2.13GHz / Athlon 64 X2 Dual Core 4800+ 或更佳　　显卡：Geforce 7600 GT 256MB / Radeon X1600 Series 或更佳　　DirectX 9　　内存：1 GB　　硬盘空间：5GB
+

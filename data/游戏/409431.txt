@@ -1,0 +1,26 @@
+《超级街霸4：街机版》配置需求公布
+　　耐心等待了《超级街霸4》PC版很久的玩家总算熬出头了，游戏的最新版本《街机版(Arcade Edition)》已在Steam平台展开预售。
+　　Capcom此前确认，游戏将于7月通过数字方式发售，售价为39.99美元。
+　　主机版的《超级街霸4街机版》将作为《超级街霸4》的补充包在6月登陆Xbox 360和PS3。售价为1200微软点数或14.99美元。光碟版售价39.99美元。
+　　下面是PC配置需求：
+　　最低配置：
+　　系统：Windows XP / Vista
+　　CPU：英特尔奔腾4 2.0 GHz
+　　内存：1 GB内存
+　　DX：支持DirectX 9.0c/Shader3.0
+　　显卡：NVIDIA GeForce 6600或更好(除了NVIDIA GeForce 7300)
+　　显存：256MB或更好(运行时不是主内存共享)
+　　硬盘：4.5 GB可用硬盘空间
+　　声卡：DirectSound，DirectX9.0c兼容音频
+　　推荐配置：
+　　系统：Windows Vista
+　　CPU：Intel Core2 2.0 GHz或更高
+　　内存：2 GB内存
+　　DX：支持DirectX的9.0c/Shader3.0
+　　显卡：NVIDIA GeForce 8600或更高
+　　显存：512MB或更高(运行时不是主内存共享)
+　　硬盘：4.5 GB可用硬盘空间
+　　声卡：DirectSound，DirectX9.0c兼容的音频
+　　其他要求：
+　　在线播放软安装和登录到Windows Live
+

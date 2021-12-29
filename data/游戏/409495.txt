@@ -1,0 +1,16 @@
+《战地3》疑似系统需求公布 官方回应
+　　有人从斯洛伐克网站搞来一个所谓的《战地3》配置需求表：
+　　最小需求
+　　操作系统：Windows Vista, Windows 7
+　　处理器：Core 2 Duo @ 2.0GHz
+　　系统内存：2GB
+　　显卡：DirectX 10/11显卡，512 MB显存
+　　磁盘剩余空间：光碟零售版15GB，数字发行版10GB
+　　推荐配置
+　　操作系统：64位Windows 7
+　　处理器：Intel/AMD四核处理器
+　　系统内存：4GB
+　　显卡：DirectX 11显卡，GeForce GTX 460或Radeon HD 6850，1 GB显存
+　　磁盘剩余空间：光碟零售版15GB，数字发行版10GB
+　　但DICE随即在EA UK官方论坛辟谣称该表为捏造：
+

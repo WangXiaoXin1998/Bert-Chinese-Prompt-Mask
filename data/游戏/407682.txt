@@ -1,0 +1,7 @@
+育碧为Facebook网站推出社交游戏插件
+　　Ubisoft宣布为美国著名社交网站Facebook网站首次推出社交游戏系列，名为《UbiFriends》，让用户提供更多游戏选择。网站将定期提供全新游戏和新程序，让Facebook用户可以与其他Facebook好友一同分享游戏趣味。《TickTock》将成为首个《UbiFriends》游戏系列，供Facebook用户玩乐，通过游戏对好友们有更深入的了认识。
+　　《TickTock》是一个免费的游戏应用程序，玩家需要回答一连串有关朋友近期状态和更新内容的选择题，让你从游戏中了解你朋友的近况。同时亦是首款针对Facebook特性而开发的网站游戏，加强你与朋友之间的认识，让你的人际网络有更良好的发展。Ubisoft将陆续于Facebook上推出更多游戏应用程式供用家分享，除了游戏趣味之外更为玩家带来多一层意义，令你和朋友有更互动的沟通。朋友数量愈多的Facebook用户将会从《TickTock》上面对更大的挑战与乐趣。
+　　Ubisoft承诺通过科技的提升及协助下，维持高质素和高玩味性的游戏水平。
+　　《UbiFriends》采用Google App Engine，使游戏的应用程式更容易建立、控制和执行网站维护。《UbiFriends》以社交群组和新世代网络发展作开发基础，符合Ubisoft于游戏界内勇于创新的形象。《TickTock》及《UbiFriends》由Ubisoft美国旧金山团队开发。
+　　Ubisoft南美洲总裁Laurent Detoc说：“凭着多年于游戏业内所获得的骄人成绩，让Ubisoft于业内担任重要角色，而今次合作亦让Ubisoft将游戏开发的经验于Facebook上展示。我们首个推出的游戏应用程式《TickTock》，是利用朋友近期状态和更新内容而构成的选择题游戏，我们将陆续为Facebook上的《UbiFriends》推出新游戏。”
+

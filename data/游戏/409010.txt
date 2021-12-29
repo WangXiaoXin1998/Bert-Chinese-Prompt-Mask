@@ -1,0 +1,44 @@
+《子弹风暴》PC版系统配置需求公布
+　　【新浪游戏专稿，转载请注明出处。】
+　　1月11日，Epic正式公布了《子弹风暴(Bullet Storm)》PC版的配置要求。
+　　游戏采用Unreal引擎塑造出来的美丽乐土上，行经炙热沙漠、热带森林乃至于成人乐园度假村，迫降幸存的葛雷森韩特和佐藤石井面对的将是重重的突变人和吃人帮派；他们生存目标只有两个：活着离开这个星球，并向把他们弄来这里的家伙复仇。曾为Marvel漫画作家的瑞克瑞曼德(着有《The Punisher》)表示，《狂弹风暴》将带领玩家踏上曲折离奇、峰回路转的旅程，经历背叛、复仇以及最后救赎。
+　　最低配置：
+　　CPU：Intel Core 2 Duo, AMD Athlon X2, 或同等的配置，　1.6 GHz或更高
+　　内存：1.5 GB
+　　显卡：完全支持DirectX 9.0c, 256 MB显存； NVIDIA GeForce 7600 GS, ATI Radeon HD 2400 Pro 256 MB,或更高
+　　硬盘：9 GB
+　　声卡：支持DirectX 9.0c
+　　光驱 16X CD/DVD
+　　系统：Windows XP (SP3)， Windows Vista (SP2)， 或 Windows 7
+　　推荐配置：
+　　CPU：QuadCore 2.0 GHz
+　　内存：2 GB
+　　显卡：完全支持DirectX 9.0c, 512MB显存； NVIDIA GeForce GTX260, 或ATI Radeon 4870
+　　硬盘：9 GB
+　　声卡：支持DirectX 9.0c
+　　光驱：16X CD/DVD
+　　系统：Windows Vista (SP2)， 或Windows 7
+　　《子弹风暴》预定2月22日推出PC限量特典版、X360 Epic独家特典版与PS3限量特典版。
+　　编译/熊猫
+　　【新浪游戏专稿，转载请注明出处。】
+　　1月11日，Epic正式公布了《子弹风暴(Bullet Storm)》PC版的配置要求。
+　　游戏采用Unreal引擎塑造出来的美丽乐土上，行经炙热沙漠、热带森林乃至于成人乐园度假村，迫降幸存的葛雷森韩特和佐藤石井面对的将是重重的突变人和吃人帮派；他们生存目标只有两个：活着离开这个星球，并向把他们弄来这里的家伙复仇。曾为Marvel漫画作家的瑞克瑞曼德(着有《The Punisher》)表示，《狂弹风暴》将带领玩家踏上曲折离奇、峰回路转的旅程，经历背叛、复仇以及最后救赎。
+　　最低配置：
+　　CPU：Intel Core 2 Duo, AMD Athlon X2, 或同等的配置，　1.6 GHz或更高
+　　内存：1.5 GB
+　　显卡：完全支持DirectX 9.0c, 256 MB显存； NVIDIA GeForce 7600 GS, ATI Radeon HD 2400 Pro 256 MB,或更高
+　　硬盘：9 GB
+　　声卡：支持DirectX 9.0c
+　　光驱 16X CD/DVD
+　　系统：Windows XP (SP3)， Windows Vista (SP2)， 或 Windows 7
+　　推荐配置：
+　　CPU：QuadCore 2.0 GHz
+　　内存：2 GB
+　　显卡：完全支持DirectX 9.0c, 512MB显存； NVIDIA GeForce GTX260, 或ATI Radeon 4870
+　　硬盘：9 GB
+　　声卡：支持DirectX 9.0c
+　　光驱：16X CD/DVD
+　　系统：Windows Vista (SP2)， 或Windows 7
+　　《子弹风暴》预定2月22日推出PC限量特典版、X360 Epic独家特典版与PS3限量特典版。
+　　编译/熊猫
+

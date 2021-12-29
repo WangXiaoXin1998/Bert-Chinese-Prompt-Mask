@@ -1,0 +1,44 @@
+排序：美国硕士毕业生十大“金”专业
+　　有最新调查发现，九成以上留学人员专业选择集中在人文社会学科和工程技术类，目前，与以前学生一窝蜂选择商科相比，不少学生看好工程类院校。近几年，工程类学校的亚洲学生迅速增长。调查结果显示，留学人员专业选择主要集中在五大类：人文社会学科类占47.5%，工程技术类占44.7%，自然科学类占4.5%，医药类占2.4%，农业类占0.4%。工程技术类中，也以计算机信息技术为重。
+　　工程类专业概况：
+　　1. Aeronautics and Astronautics航空工程
+　　飞行器和太空船的设计，结构，流体力学，动机学和控制系统，导航系统，重点强调基础理论和系统工程的学习。
+　　2. Bioengineering 生物工程学
+　　生物工程专业兼顾生物学和工程学，旨在解决农业、食品科学、和医学方面的实用问题，是一项交叉学科。
+　　3. Chemical Engineering 化学工程
+　　运用数学、化学及其他自然科学的知识来达到节约原料和能量并造福社会的目的。
+　　4. Civil and Environmental Engineering土木和环境工程
+　　主要由七个分支专业组成：建筑工程及管理、结构工程及地质力学、环境工程及科学、环境流体力学及水文地理学、大气能量、设计建筑一体化、以及建筑设计。
+　　5. Computer Science Engineering计算机工程
+　　研究对象包括：系统、软件、网络、数据库、计算机安全、绘图、计算机基础、人工智能、机器人技术、以及科学计算。在跨学科的学习中，计算机知识还被应用到遗传学、生物学、语言学、物理学、医学等工程领域的基础研究中。
+　　6. Electrical Engineering电气／电子工程
+　　把数学和科学融合到以下学科的应用中：信号与系统、电子及光设备、复杂信息处理及通信系统、数字及模拟电子学、电磁学、及原料等
+　　7. Management Science and Engineering 管理工程
+　　旨在推进信息集中和以技术为本的经济体的研究和教育。该学科旨在培养决策、搭建企业架构、设计工程系统、和解决企业运作过程中各种难题的能力，因此涵盖广阔的知识面、使用工具及方法。该学科主要包括8个领域：系统建模与优化、概率与随机系统、信息科学与技术、经济金融、决策分析及风险分析、生产运作管理、组织/技术/企业家特性、战略与方针。
+　　8. Materials Science and Engineering 材料工程
+　　研究生产工艺、生产结构以及生产物料比例之间的关系。目的在于通过基本原理的应用研究发展出新的材料和生产工艺。
+　　9. Mechanical Engineering 机械工程
+　　机械工程毕业生有着广阔的就业前景，可以在以下领域深入发展或应用：热量科学、动力、固体力学、流体力学及生物力学、设计与制造、传感、控制及机器人技术、计算/仿真工程
+　　10. Industrial Engineering工业工程
+　　IE主要是介于工业和管理之间的学科，主要的研究领域有：最优化(Optimization)，应用概率以及随机模型(Applied Probability and Stochastic Models)，物流和供应链(Logistics and Supply Chain)，决策分析(Decision Analysis)，仿真(Simulati，金融工程(Financial Engineeing)，人力因素(Human Factors)
+　　全美工程类院校排名汇总
+　　工程类本科总体排名
+　　1. Massachusetts Inst. Of Technology 麻省理工学院
+　　2. Stanford University 斯坦福大学
+　　3. U of California-Berkeley 加州大学伯克利分校
+　　4. California Institute of Technology 加州理工学院
+　　5. U of Illinois-Urbana Champaign 伊利诺大学香槟分校
+　　6. U of Michigan-Ann Arbor 密歇根大学安阿伯尔分校
+　　7. Cornell U 康奈尔大学
+　　8. Georgia institute of Technology 乔治亚理工学院
+　　9. Carnegie Mellon U 卡耐基梅隆大学
+　　10. Purdue U-West Lafayette 普度大学西拉法叶校区
+　　11. U of Texas-Austion  德州大学奥斯汀分校
+　　12. Princeton U 普林斯顿大学
+　　13. Northwestern u 西北大学
+　　14. U of Wisconsin-Madison 威斯康星大学麦迪逊分校
+　　15. Johns Hopkins U 约翰霍普金斯大学
+　　16. Pennsylvania State U-University Park 宾州州立大学伯克分校
+　　17. Rensselaer Polytechnic Inst. 伦斯勒理工学院
+　　18. U of Texas-College Station 德州大学卡城分校
+

@@ -1,0 +1,17 @@
+《红色派系 游击队》PC版9月15日发售
+　　第三人称射击游戏《红色派系：游击队》，继PS3、Xbox 360版本于6月推出后，THQ也宣布了PC版游戏上市时间与系统配备等消息。
+　　《红色派系：游击队》除了扎实的剧情外，也在多人连线模式中加入了派对游戏，让玩家尽情享受破坏的乐趣。利用可升级的武器补给包、爆炸物、重新开发的采矿装备和载具，《红色派系：游击队》将为玩家提供在能“彻底破坏”的巨大火星表面与其他同伴一道打击“地球防卫军（EDF）”的爽快感。
+　　游戏采用了全新的强大物理运算引擎“GEO-MOD 2.0”，可以实现即时的物理破坏运算，完全比照现实的物理环境，在重力、加速度、碰撞及结构上都有非常拟真的运算效果，并针对Xbox 360、PS3及PC平台的架构进行效能优化。
+　　PC版《红色派系：游击队》预定2009年9月15日上市。
+　　推荐硬件需求
+　　操作系统：Windows VistaR DirectXR 10
+　　中央处理器（CPU）：3.2 GHz Dual-Core Processor （Intel Core 2 Duo 或 AMD Athlon X2）
+　　内存：2 GB RAM / 15 GB 硬盘空间
+　　显示卡：256 MB 3D显示卡 支持 Shader Model 3.0 （Nvidia GeForce 8800/ATI Radeon HD3850）
+　　※如果想要使用 Games For Windows Live 来游玩多人连线，建议配备最好能达到此推荐系统需求。
+　　最低硬件需求
+　　操作系统：Windows XP / Vista
+　　中央处理器（CPU）：2.0 GHz Dual-Core Processor （Intel Core 2 Duo 或 AMD Athlon X2）
+　　内存：1 GB RAM / 15 GB 硬盘空间
+　　显示卡：128 MB MB 3D显示卡 支持 Shader Model 3.0 （Nvidia GeForce 7600/ATI Radeon X1300）
+

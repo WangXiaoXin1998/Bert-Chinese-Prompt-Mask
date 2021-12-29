@@ -1,0 +1,22 @@
+DX11大作《地铁2033》超高配置要求
+　　为了进一步证明自己并非偷师于《S.T.A.L.K.E.R.》的X-Ray引擎，4A-Games拿出了迄今为止最为激进的系统需求：
+　　最小系统需求
+　　双核处理器(要求是Core 2 Duo系列或更高)
+　　支持SM3.0的DX9显卡，GeForce 8800/GT220或更高
+　　1GB系统内存
+　　推荐配置
+　　四核处理器；或3.0GHz 双核处理器
+　　DX10显卡，GeForce GTX 260或更高
+　　2GB系统内存
+　　首选配置
+　　Core i7处理器
+　　NVIDIA DX11显卡，GeForce GTX 480/470(原文如此)
+　　8GB系统内存(越多越好)
+　　高速硬盘(SSD更佳)
+　　NVIDIA 3D Vision系统
+　　NVIDIA GeForce GTX 275或更高
+　　120Hz显示器
+　　NVIDIA 3D Vision套件
+　　Windows Vista或Windows 7系统
+　　该作3月中旬上市，首选配置里的GeForce GTX 480/470显然是空中楼阁(PAX East 2010要到3月26号才开幕)。
+

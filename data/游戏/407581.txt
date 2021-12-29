@@ -1,0 +1,21 @@
+《极品飞车：变速》系统配置要求公布
+　　国外媒体公布了《极品飞车13：变速（Need For Speed：SHIFT）》的系统配置要求。如今的极品飞车新作越来越吃系统，看看你的配置是否能满足要求呢？
+最低配置要求：
+　　Pentium 4 3.2 GHz (3.4 GHz 针对 Vista)
+　　1GB RAM (2GB 针对 Vista)
+　　256MB 显存的显卡，支持 Pixel Shader 3 (PCI-Ex)
+　　兼容 DirectX 9.0c 的声卡
+　　10GB 剩余空间
+　　Windows XP SP3 或者 Vista SP1
+　　8x DVD 光驱
+推荐配置要求：
+　　Intel Core 2 Duo 2.5 GHz 或者 AMD64 X2 2 GHz
+　　2GB RAM (3GB 针对 Vista)
+　　512MB 显存的显卡，支持 Pixel Shader 3 (PCI-Ex)
+　　兼容 DirectX 9.0c 的声卡
+　　10GB 剩余空间
+　　Windows XP SP3 或者 Vista SP1
+　　8x DVD 光驱
+　　《极品飞车13：变速》游戏收录18条真实赛道与超过65款车辆，登上产品封面包装则是华丽的BMW M3 GT2，将为《极品飞车》游戏史上速度最快、马力最强的车辆。
+　　《极品飞车13：变速》强调将车款、赛道与车手感受的逼真体验结合在一起，希望传达真实的驾驶感。PC/PS3/Xbox 360/PSP《极品飞车13：变速》预定9月17日在欧洲上市，9月22日在北美上市。
+

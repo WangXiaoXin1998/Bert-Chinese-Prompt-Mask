@@ -1,0 +1,21 @@
+《质量效应2》PC版配置要求公布
+　　EA公布美式RPG游戏《质量效应2》(Mass Effect 2)PC版配置要求，其中推荐配置达到新的高度，本作也是沿用1代DRM系统激活游戏。游戏即将2010年1月26日发售，登陆PC/XBOX360平台。
+　　最低配置要求：
+　　操作系统： Windows XP SP3 / Windows Vista SP1 / Windows 7
+　　CPU: 1.8GHz Intel Core 2 Duo or equivalent AMD CPU
+　　内存： 1 GB RAM for Windows XP / 2 GB RAM for Windows Vista and Windows 7
+　　硬盘空间： 15 GB
+　　光驱： 1x Speed
+　　声卡： DirectX 9.0c compatible
+　　DirectX: DirectX 9.0c August 2008 (included)
+　　输入： Keyboard / Mouse
+　　显卡： 256 MB (with Pixel Shader 3.0 support). Supported Chipsets - NVIDIAGeForce 6800 or greater; ATI Radeon X1600 Pro or greater。
+　　Please note that NVIDIA GeForce 7300, 8100, 8200, 8300, 8400, and9300; ATI Radeon HD3200, and HD4350 are below minimum systemrequirements. Updates to your video and sound card drivers may berequired. Intel and S3 video cards are not officially supported in MassEffect 2.
+　　推荐配置要求：
+　　操作系统： Windows XP SP3 / Windows Vista SP1 / Windows 7
+　　CPU: 2.6+ GHz Cure 2 Duo Intel or equivalent AMD CPU
+　　内存： 2 GB RAM
+　　声卡： 100% DirectX compatible sound card and drivers
+　　DirectX: DirectX August 2008
+　　显卡： ATI Radeon HD 2900 XT, NVIDIA GeForce 8800 GT, or better recommended
+

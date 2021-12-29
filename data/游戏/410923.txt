@@ -1,0 +1,5 @@
+iPhone 3GS平台PS游戏模拟器浮现
+　　尽管iPhone 3GS还未实现越狱破解，但它强悍的性能已经让不少开发者们行动起来了。曾经推出iPhone平台GBA模拟器gpSPhone的ZodTTD团队已经开始展示他们的新作品：索尼第一代PS主机模拟器psx4iPhone。
+　　根据开发者的说法，由于iPhone 3GS的ARM Cortex A8 + PowerVR SGX核心性能优异，gpSPhone在该机上运行GBA游戏的无丢帧速度可达150FPS甚至225FPS，而在上代机型iPhone 3G上则很难达到60FPS。
+　　PS模拟方面，psx4iPhone已经可以在iPhone 3GS上，无声情况下全速运行《最终幻想7》，也可以在无需重启模拟器的情况下切换游戏。不过由于iPhone 3GS还未破解，该软件目前还只能对应每台机器单独编译运行。不过相信一代实现Jailbreak后，该软件会很快在破解平台上推出。
+

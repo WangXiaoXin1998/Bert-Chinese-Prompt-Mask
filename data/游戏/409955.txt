@@ -1,0 +1,16 @@
+《索尼克世代》PC版确定 配置要求公布
+　　世嘉非常慷慨的宣布，旗下非常具有人气的刺猬Sonic的新作《Sonic Generations》将会发布PC版。尽管此前一直有这样的传言，不过世嘉却从来没有给出过任何官方回应。
+　　游戏的售价为29.99美元，预计下个月发售，以下是游戏的系统配置要求。
+　　最低配置：
+　　操作系统：Microsoft Windows 7/Vista/XP
+　　处理器：Intel Pentium Dual-Core T4200 (2x2.0GHz)或者同等级AMD处理器
+　　内存：2GB RAM (Windows 7/XP)/3GB RAM (Windows Vista)
+　　显卡：NVIDIA GeForce 8800 / ATI Radeon HD 2900
+　　硬盘空间：11 GB
+　　推荐配置：
+　　操作系统：Microsoft Windows 7
+　　处理器： Intel Core i5 @ 2.66 GHz / AMD Phenom II X4 @ 3.0 GHz
+　　内存：3GB RAM
+　　显卡：NVIDIA GeForce GTX 460 / ATI Radeon HD 5850
+　　硬盘空间：11 GB
+

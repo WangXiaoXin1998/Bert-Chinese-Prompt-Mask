@@ -1,0 +1,5 @@
+效果华丽《战斗版国际象棋》正式公布
+　　TopWare及Zuxxez打算将传统的棋类游戏与一流的3D视效结合起来，打造一款华丽的专业棋类软件：
+　　该作名为“Battle vs. Chess”(暂译《战斗版国际象棋》)，算法取自业界知名的Fritz。
+　　《Battle vs. Chess》将在五月份发售 PC、Mac、360、PS3、Wii、NDS 版本，不知道家用机版是不是 XBLA 即可。游戏采用了 ChessBase 拥有的 Fritz! 国际象棋运算软件，是目前最优秀的国际象棋引擎之一。
+

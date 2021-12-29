@@ -1,0 +1,8 @@
+《巫师2》新图放出 最低配置要求公布
+　　《巫师2》(The Witcher 2：Assassins of Kings)由CD Projekt RED开发，PC版先行，今年5月面市。
+　　该作(最小)系统需求如下：
+　　处理器：Core 2 Duo E6750 2.66 GHz；或AMD Athlon II X2 245e
+　　显卡：至少512MB显存，GeForce GTS 450；或AMD Radeon HD 4850
+　　系统内存： 1GB(XP)/ 2GB(Vista)
+　　剩余磁盘空间：8GB
+

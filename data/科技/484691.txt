@@ -1,0 +1,98 @@
+IBM超级电脑人机大战第二天题目详解(图)
+　　新浪科技讯 北京时间2月17日消息，美国当地时间2月14日-16日(北京时间15-17日)，IBM超级电脑“沃森”亮相美国最受欢迎的智力竞猜电视节目《危险边缘》，挑战该节目历史上两位最成功的选手——肯·詹宁斯(Ken Jennings)和布拉德·鲁特(Brad Rutter)，看一看“沃森”能否在这档最抽象的文字游戏中击败最优秀的人类，同时展示这台超级电脑在其他领域的自然语言处理能力。这也是15年前IBM的超级电脑“深蓝”战胜国际象棋世界冠军卡斯巴罗夫的又一次人机大战。
+　　以下为人机大战第二天的精选问题详解：
+　　问题类别 ：练习曲，笨拙的(Etude，Brute)
+　　• 问题：练习曲(etude)是探索了某个音乐上的技术问题的作品。Etude源自法语，在法语中它对应于哪个英语单词？(An etude is a composition that explores a technical musical problem; the name is French for this)。
+　　• 答案：英语单词study
+　　• 点评：沃森答对了这道题。Etude源自法语的study。通过etude这个法语名字，以及音乐上的技术问题，沃森可以找到答案study。
+　　• 问题：维拉-罗伯斯(注：巴西作曲家)将他对于这个乐器的"12练习曲"献给了安德列斯-塞戈维亚(西班牙吉他手)。(Heitor Villa-Lobos dedicated his "12 Etudes" for this instrument to Andres Segovia)
+　　• 答案：吉他(guitar)
+　　• 点评：沃森又答对了这道题。我们的沃森对于音乐很在行啊。这道题问的是乐器，安德列斯-塞戈维亚是吉他手，所以知识库中有大量吉他和他有关，沃森可以想到乐器是吉他
+　　• 问题：帕格尼尼的“24随想曲”树立了这个乐器的练习曲的标准。 (Paganini's "24 Capricci" set the standard for etudes for this instrument)
+　　• 答案：小提琴(violin)
+　　• 点评：沃森也答对了这道题。帕格尼尼是著名的小提琴家，沃森可以在知识库中找到。小提琴家擅长的肯定是小提琴，那么他的作品肯定是小提琴的曲子。
+　　• 问题：音乐迷对这位匈牙利人的超技练习曲充满了极大的热情。 (Music fans wax rhapsodic about this Hungarian's "Transcendental Etudes")
+　　• 答案：弗郎兹•李斯特(Franz Liszt)
+　　• 点评：沃森也答对了这道题。通过匈牙利人，以及超技练习曲("Transcendental Etudes")，沃森在知识库中可以确定这个人是李斯特。
+　　• 问题：从1911到1917，这个浪漫的俄罗斯人谱写了“图画练习曲”。(From 1911 to 1917, this romantic Russian composed "Etudes-Tableaux for Piano")
+　　• 答案：拉赫曼尼诺夫(Rachmaninoff)
+　　• 点评：沃森同样答对了这道题。这道题和上一道题对沃森来说类似。通过俄罗斯人，图画练习曲，沃森可以确定是拉赫曼尼诺夫。不得不佩服沃森在音乐方面的造诣啊，它回答对了这个类别的所有题目。
+　　问题类别：带刺的，短小的(Hedgehog-podge)
+　　• 问题：一些刺猬进入了冬眠时期；欧洲西部的物种在这种蛰伏的状态下过冬。(Some hedgehogs enter periods of torpor; the Western European species spends the winter in this dormant condition)
+　　• 答案： 冬眠(Hibernation)
+　　• 点评：沃森答对了这道题。这道题目给了两个线索，通过蛰伏(torpor)和蛰伏的状态(dormant condition)都可以联想到冬眠。
+　　• 问题：这种带刺类型的植物有大约50个种类；因此是依据它的多刺的果实来命名的。(There are about 50 species of the hedgehog type of this plant, so named for its spiny fruit)
+　　• 答案： 仙人掌(cactus)
+　　• 点评：沃森答对了这道题。通过分析问题，沃森知道这道题要回答的是一种植物，通过带刺类型的和多刺的果实以及50个种类，沃森可以找到仙人掌。
+　　• 问题：<<刺猬和狐狸>>是一篇关于这个俄罗斯伯爵的历史观的随笔。("The Hedgehog and the Fox" is an essay on this Russian count's view of history)
+　　• 答案： 列夫托尔斯泰(Leo Tolstoy)
+　　• 点评：沃森也答对了这道题。通过分析问题，沃森知道要回答的是一个人(俄罗斯伯爵)。通过<刺猬和狐狸>>, 沃森可以找到本书的全名<<刺猬和狐狸：托尔斯泰的历史观>>。因此可以确定这个人是托尔斯泰。同时俄国的这一线索又给了这个答案更强的支持。
+　　• 问题：刺猬全身被刺毛之类的东西覆盖。这类东西是由于这种蛋白质而变成坚硬的毛发。(Hedgehogs are covered with quills or spines, which are hollow hairs made stiff by this protein)
+　　• 答案： 角蛋白 (keratin)
+　　• 点评：沃森答对了这道题目。通过分析问题，沃森知道要回答的是一种蛋白质(protein)。通过刺猬，坚硬的刺毛，沃森可以从知识库中找到解释形成刺猬的刺的物质，之后从中抽出蛋白质，即角蛋白。
+　　• 问题：最近的一本妙莉叶•芭贝里写的畅销书叫做刺猬的什么？(A recent bestseller by Muriel Barbery is called this "of the Hedgehog")
+　　• 答案： 刺猬的优雅(The elegance of the hedgehog)
+　　• 点评：这道题沃森也答对了。看来沃森也很擅长这个类别，答对了所有的问题。这道题通过关键字妙莉叶•芭贝里(Muriel Barbey) 以及引号中的”刺猬的“(”of the hedgehog“)，沃森可以搜出书名<<刺猬的优雅>>(The elegance of the hedgehog)
+　　问题类别：偷的艺术 (The art of the steal)
+　　点评：看了具体的题目，你会发现，”偷的艺术“可是个双关语。这一组问题都很难。因为问题故意把很多信息给模糊化了，没有透露出来。
+　　• 问题：伦布兰特的有关圣经的画： 什么海”上的暴风雨”，在1990年在波士顿的一个博物馆被偷 (Rembrandt's biblical scene "Storm on the Sea of" this was stolen from a Boston museum in 1990)。
+　　• 答案：加利利海。(注：加利利海上的暴风雨是伦布兰特的画。 加利利海是以色列最大的淡水湖。)
+　　• 点评：这题沃森答对了。伦布兰特的画，以及”上的暴风雨”都提示了答案。
+　　• 问题：一部戈雅的作品在2006年被偷(后来又找回了)，这部作品属于哪个城市中的一个博物馆 (俄亥俄州的，不是西班牙的)。(A Goya stolen (but recovered) in 2006 belonged to a museum in this city (Ohio, not Spain))。
+　　• 答案：托莱多。
+　　• 点评：这题让Ken给抢答了。
+　　• 问题：这个古老的“Lion of Nimrud"在2003年在这个城市的国家博物馆被偷(一起丢失的还有很多其他东西) (The ancient "Lion of Nimrud" went missing from this city's National Museum in 2003 (along with a lot of other stuff)) 注：此题为Daily Double。
+　　• 答案：巴格达。
+　　• 点评：沃森赌了一把。此题沃森答案的置信度只有32%，但还是答对了。我们在网络上搜索了一下”Lion of Nimrud“，发现只有很少的网页提到它，包含正确答案巴格达的网页则更少。这反映了这个题目的难度相当大。而沃森在没有联网的情况下，居然根据很少的 信息准确找到答案，不容易！注：“Lion of Nimrud"是存放在巴格达的国家博物馆里的一个象牙浮雕。它是巴格达的国家博物馆里最有价值的艺术品。在2003年的战乱中被盗抢。
+　　• 问题：在2010年5月，5幅价值1.25亿美金的，由布拉克，马蒂斯和3位其它画家画的画离开了巴黎的博物馆。这5幅画是什么艺术时期的？(In May 2010 5 paintings worth $125 million by Braque, Matisse & 3 others left Paris' Museum of this art period)。
+　　• 答案：现代艺术时期。
+　　• 点评：这一组问题都很难。因为问题故意把很多信息给模糊化了，没有透露出来。比如在本题中，问的是5幅画的艺术时期。但具体是哪5幅画，则没有明确说，必须从前面画被偷的事件里面去找。在沃森研发团队，我们称这一类的问题为递归问题。沃森系统必须先解决一个子问题(在这里就是从被偷事 件中找到那些画)，把子问题的答案放回原问题，再来回答原问题。这是一个复杂的过程，在子问题的划分、子问题的回答、原问题的回答的任何一步出错，都无法 得到答案。简单的说，沃森需要解决”问题中的问题“！这一题就是这样的难题。现场上，三个选手都抢答了，但没有一个答对。
+　　• 问题：画家提香(Titian)关于哪个西班牙国王的画像在1987年时被从枪口下从阿根庭的一家博物馆偷走。(A Titian portrait of this Spanish king was stolen at gunpoint from an Argentine museum in 1987)。
+　　• 答案：飞利浦二世。
+　　• 点评：这一题也很难。同样是一个递归类问题。现场三位选手全部答错。
+　　问题类别：剑桥(Cambridge，注：题目实际上和剑桥大学相关)
+　　点评：关于剑桥大学这一类的问题沃森都回答的比较好，因为这是一类非常典型的事实型问题。除了被问的部分，问题基本上陈述了一个完整的事实，所有信息都没有缺失。沃森因此能很快从其庞大的知识库里找到匹配这一事实的答案。
+　　• 问题：带着很大的严肃性和重要性，这位三一学院的年轻人在1669年就获得了卢卡斯数学教授席位。(With much "gravity", this young fellow of Trinity became the Lucasian Professor of Mathematics in 1669)
+　　• 答案：牛顿。
+　　• 点评：此题中的"gravity"是双关语，即使用了其英文中的重要性、严肃性的的意思，也暗指牛顿的"引力"(gravity)理论。
+　　• 问题：1626年，对于他来说是个“失乐园”，那一年他被(暂时的)驱逐出了基督学院。(In 1626 it was "Paradise Lost" when he was "rusticated" (temporarily expelled) from Christ's College)
+　　• 答案：约翰•弥尔顿。
+　　• 点评：这是这组问题中唯一让人类选手抢答的题目。现在根据有限的信息，我们推测沃森有可能在问题分析阶段出了错。问题中的it和he让沃森有点茫然，不知道哪个是这个问题问的焦点。注：<<失乐园>>是英国诗人约翰•弥尔顿的代表作。
+　　• 问题：在1546年，这个国王创立了三一学院，剑桥中最大的学院(In 1546 this king founded Trinity College, the largest of Cambridge's colleges)
+　　• 答案：亨利三世。
+　　• 问题：彭布罗克学院和伊曼纽尔学院的小礼堂是这个建筑师设计的(The chapels at Pembroke & Emmanuel Colleges were designed by this architect)
+　　• 答案：克里斯托弗•雷恩。
+　　• 点评：这是一个Daily Double点。沃森下的赌注是$6435。现场的观众都笑了起来。因为通常人类选手下的赌注都是一个整数，例如几百块或几千块，很少有精确到个位数 的。$6435这个数目在人类看起来，确实有点怪。这正体现了人和机器的不同。沃森使用了一个数学模型来计算如何冒最小的风险获得最大的收益。这个数学模 型机械的计算得到6435这个数。在比赛现场，主持人听到这个下注也很无奈啊。
+　　• 问题：这位<<纳尼亚>>的作者从在牛津的莫德林学院教书来到了剑桥的麦格达琳学院教书(This "Narnia" author went from teaching at Magdalen College, Oxford to teaching at Magdalene College, Cambridge)。
+　　• 答案：C•S•路易斯。
+　　问题类别：别担心(Don't Worry about it)(注，这个类别问的都是疾病，说别担心是说你没有这种疾病)
+　　• 问题：它只是个出血的鼻子！你不用担心有这种遗传病，虽然它曾经很难被欧洲王室摆脱。(It's just a bloody nose! You don't have this hereditary disorder once endemic to European royalty)
+　　• 答案：血友病(hemophilia)
+　　• 点评：这道题是Ken答对的。Watson对于答案血友病有65%的确信度。
+　　• 问题：你只是需要多一点阳光！你不会有这种遗传性的天然色素缺乏病的。(You just need a little more sun! You don't have this hereditary lack of pigment)
+　　• 答案：白化病 (albinism)
+　　• 点评：这道题是沃森答对的，正确答案的确信度高达98%。 这里通过缺少色素，和遗传病，沃森可以得到答案是白化病。
+　　• 问题：你只是有点僵硬！你不会有这种痛苦的蚊子传播的关节疾病的。它有一个班图语的名字。(You're just a little stiff! You don't have this painful mosquito-borne joint illness with a Swahili name)
+　　• 答案：登革热(dengue fever)
+　　• 点评：这道题也是沃森答对的，确信度有87%。搜索发现蚊子可以传染一大堆疾病。那么和关节、班图语相关是关键。沃森居然找到了正确答案：登革热。沃森再对一题，以8600分领先，人类选手很无奈。
+　　• 问题：这只是痤疮！你不会有这种皮肤感染的。它也被叫做韩森氏病。(It's just acne! You don't have this skin infection also known as Hansen's disease)
+　　• 答案：麻风病(leprosy)
+　　• 点评：这道题又是沃森答对的，确信度有87%。通过皮肤感染和韩森氏病，沃森可以确定答案是麻风病。唯一需要注意的是，不要被痤疮等相关概念迷惑，虽然它们都是一种皮肤感染。
+　　• 问题：你只是需要个午睡！你不会有这种睡眠疾病的，得了这种疾病的人站着的时候都打磕睡。(You just need a nap! You don't have this sleep disorder that can make sufferers nod off while standing up)
+　　• 答案：发作性嗜睡病 (narcolepsy)
+　　• 点评：这道题是沃森答对的。对于正确答案，沃森有64%的确信度。通过问题，沃森知道要回答的是一种疾病。通过站着打瞌睡这一标志性的 线索，沃森可以找到答案--发作性嗜睡病(Narcolepsy)，又名猝睡症、渴睡症。顺便说一句，医疗健康领域是沃森接下来最先可能应用到实际生活中 的领域。沃森医生，你准备好了吗？
+　　沃森答对了final jeopardy前的最后一道题，以巨大的优势进入final jeopardy。人类选手赞叹不已。
+　　Final Jeopardy (最终挑战)
+　　沃森以巨大的优势进入最终挑战，结果又会如何呢？Final Jeopardy是怎么回事呢？
+　　比赛时，主持人只说出Final Jeopardy的题目类型，但不说出具体题目。然后选手们要仅仅根据题目类型和当时赛场形式，赌一个分数。和一般题目不同，对于Final Jeopardy的题目，选手有3分钟的时间进行思考。然后每个人在自己的题板上写上答案。在以往的比赛中，有选手凭借Final Jeopaardy的问题，凭借自己的策略和对手的失误，成功翻盘的。
+　　今天Final Jeopardy的题目是：这座城市的最大的机场是以二战的一个英雄命名的，而它的第二大机场是以二战的一场战役命名的(Its largest airport is named for a World War II hero, its second largest for a World War II battle)。题目的类别是美国的城市。
+　　选手们在努力思考写出答案。
+　　这个题目对国内的博友来说，有点难。除非你一天到晚在各大机场转悠。呵呵。
+　　这道题Ken和Brad都下了最大的赌注--自己的所有分数。沃森由于遥遥领先，只下了个很小的分数。-- 这就是传说中的游戏策略啊！
+　　Ken答对了这道题，Brad也答对了这道题。不愧是最牛的冠军们啊，这种题都难不倒他们。
+　　可是很不幸，这道题难倒了我们沃森。而且沃森给了个比较搞笑的答案。正确答案应该是芝加哥。沃森回答的却是多伦多。多伦多怎么跑到美国去了啊？
+　　这个其实是有以下几点原因的。第一，这道题是在类别中限制的美国城市，而题目本身并没有提到。熟悉Jeopardy的朋友都知道，在 Jeopardy中，类别的名字经常是乱起的，经常给不了什么提示的。沃森也很好的学到了这一点，所以对于类别中的线索，沃森给的重要性较低。而这道题目 的类别恰恰是很重要的限制。所以这道题的问法是让沃森迷茫了点。第二，朋友们也有所不知啊，其实我们也不知道，但只有沃森知道，美国真的是有城市叫多伦多 的，还不止一个。这些信息给沃森又带来了噪音。沃森还没法揣测到，出题者也不知道这些几角旮旯的信息的。第三，沃森也没有找到很多证据，将城市的机场和二 战关联起来。芝加哥其实在沃森的备选答案的第二个，和多伦多的置信度很靠近。就差一点证据支持，没能把芝加哥放到正确答案上。
+　　至于为什么芝加哥是正确答案：芝加哥的中途国际机场是在1949年以中途岛海战命名的，而其奥黑尔国际机场则是以爱德华•奥黑尔少校命名。奥黑尔是二次大战中的王牌飞行员。
+　　下次再去机场的时候，留心一下它的历史和名称吧，原来还是蛮有意思的。
+    相关文章：IBM超级电脑人机大战第一天题目详解(图)
+

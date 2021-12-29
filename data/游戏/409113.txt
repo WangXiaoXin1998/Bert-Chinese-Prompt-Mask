@@ -1,0 +1,43 @@
+《孤岛危机2》配置与帧率对应关系
+　　有网站获得了某权威人士提供的配置/帧率对应关系表，谨供参考：
+　　最小需求
+　　CPU： 2GHz Intel Core 2 Duo；或与之相当的AMD Athlon 64 X2
+　　系统内存： 2GB
+　　显卡：具备512MB显存的8800GT；或HD3850
+　　DX9.0c、Shader Model 3.0、Windows XP环境
+　　以上配置在1024x768分辨率下可稳定在20帧/秒的水平上。
+　　推荐配置
+　　CPU：2.66GHz Intel Core 2 Duo或与之相当的AMD Athlon 64 X2
+　　系统内存：3GB
+　　显卡：具备1GB显存的GTX280；或HD4870
+　　DX9.0、Shader Model 3.0/4.0、Windows XP环境
+　　以上配置在1680x1050分辨率下可稳定在30帧/秒的水平上。
+　　强烈建议配置
+　　CPU：3GHz Intel i7
+　　系统内存：4GB
+　　显卡：GTX560Ti；或HD4870 X2
+　　显存：1.8GB Video Memory
+　　DirectX 11、Shader Model 3.0/4.0、Windows 7环境
+　　以上配置在1920x1200分辨率下可保证有每秒30帧的帧率。
+　　PC玩家可能会对此配置表示怀疑，这不像是出自一个内行人士之手——上哪儿去找1.8GB显存的GTX560Ti？神马4870x2能支持DX11？神马打枪游戏要3GHz的i7出马才能搞定30帧？
+　　此外，Crytek的CryEngine游戏引擎已被SCE(索尼计算机娱乐)列入了公司下一代掌机即NGP的开发工具兼容名单。
+　　除CryEngine外，Epic的虚幻引擎也名列其中：
+　　· Blitz Games -BlitzTech
+　　· Crytek ? CryEngine
+　　· Epic Games ? Unreal Engine
+　　· Terminal Reality ? Infernal Engine
+　　· Trinigy ? Trinigy
+　　· Vicious Cycle ? Vicious Engine
+　　物理/AI/动画中间件技术
+　　· Havok
+　　· NaturalMotion
+　　音频
+　　· Audiokinetic
+　　· CRI Middleware
+　　· Firelight Technologies
+　　· RAD Game Tools
+　　用户界面
+　　· AiLive
+　　· Scaleform
+　　索尼已确认上述引擎及中间件现在即可用于NGP平台。
+

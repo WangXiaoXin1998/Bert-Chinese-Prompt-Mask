@@ -1,0 +1,18 @@
+《永远的毁灭公爵》PC版系统需求公布
+　　13年之前为该作所准备的PC配置显然已不能满足这部Gearbox新作的要求，但时至今日公爵也并未对玩家的爱机提出任何非分的要求：
+　　最小系统需求
+　　操作系统：Windows XP/Vista/7
+　　处理器：Intel Core 2 Duo 2.0 Ghz / AMD Athlon 64 X2 2.0 Ghz
+　　系统内存：1 GB
+　　显存：256 MB
+　　显卡：NVIDIA GeForce 7600 / ATI Radeon HD 2600
+　　其它：10GB剩余磁盘空间；DirectX兼容声卡
+　　推荐配置
+　　操作系统：Windows XP/Vista/7
+　　处理器：Intel Core 2 Duo 2.4 Ghz / AMD Athlon 64 X2 2.6 Ghz
+　　系统内存：2 GB
+　　显存：512 MB
+　　显卡：NVIDIA GeForce 8800 GTS / ATI Radeon HD 3850
+　　其它：10GB剩余磁盘空间；DirectX兼容声卡
+　　温和的系统需求预示着该作画面很落伍？
+
