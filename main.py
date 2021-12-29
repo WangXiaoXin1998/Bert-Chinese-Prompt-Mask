@@ -12,7 +12,7 @@ import torch.nn as nn
 from torch.autograd import Variable
 
 
-def run_bert(device):
+def run_bert(seed, device):
     train_X_PE, test_X_PE = get_X_Data('PE')
     train_Y_PE, test_Y_PE = get_Y_Data('PE',len(train_X_PE),len(test_X_PE))
     train_X_Social, test_X_Social = get_X_Data('Social')
@@ -43,9 +43,6 @@ def run_bert(device):
         num_workers=0,
         drop_last=False
     )
-
-    print(loader_train)
-    print(loader_test)
     
     net = PromptMask()
     net = net.to(device)
@@ -102,11 +99,7 @@ def run_bert(device):
                 _, pred = torch.max(output, dim=1)
 
                 pred = pred.cpu().detach().numpy()
-                print("pred：")
-                print(pred)
                 batch_y = batch_y.cpu().detach().numpy()
-                print("batchy：")
-                print(batch_y)
                 for j in range(pred.shape[0]):
                     label_out.append(pred[j])
                     label_y.append(batch_y[j])
@@ -118,11 +111,14 @@ def run_bert(device):
             print('------------------ epoch:{} ----------------'.format(i + 1))
             print('test_acc:{}, time:{}'.format( round(acc, 4), time.time()-time0))
             print('============================================'.format(i + 1))
-
-            with open('output/pre_out' + '.txt', 'w', encoding='utf-8') as file:
-                for j in range(len(label_out)):
-                    file.write(str(label_out[j]))
-                    file.write('\n')
+            try:
+                with open('output/pre_out' + seed + '.txt', 'w', encoding='utf-8') as file:
+                    for j in range(len(label_out)):
+                        file.write(str(label_out[j]))
+                        file.write('\n')
+            except:
+                print("文件写入异常")
+            
     return acc
 
 def setup_seed(seed):
@@ -140,6 +136,6 @@ if __name__ == '__main__':
         os.environ["TOKENIZERS_PARALLELISM"] = "true"
         os.environ["CUDA_VISIBLE_DEVICES"] = str(0)
         device = torch.device(device)
-        average_acc += run_bert(device)
+        average_acc += run_bert(seed,device)
     average_acc /= 5
     print('average_acc:{}'.format(round(average_acc, 4),))
