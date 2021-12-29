@@ -13,12 +13,12 @@ from torch.autograd import Variable
 
 
 def run_bert(seed, device):
-    train_X_PE, test_X_PE = get_X_Data('PE')
-    train_Y_PE, test_Y_PE = get_Y_Data('PE',len(train_X_PE),len(test_X_PE))
-    train_X_Social, test_X_Social = get_X_Data('Social')
-    train_Y_Social, test_Y_Social = get_Y_Data('Social',len(train_X_Social),len(test_X_Social))
-    train_X_Finance, test_X_Finance = get_X_Data('Finance')
-    train_Y_Finance, test_Y_Finance = get_Y_Data('Finance',len(train_X_Finance),len(test_X_Finance))
+    train_X_PE, test_X_PE = get_X_Data('体育')
+    train_Y_PE, test_Y_PE = get_Y_Data('体育',len(train_X_PE),len(test_X_PE))
+    train_X_Social, test_X_Social = get_X_Data('社会')
+    train_Y_Social, test_Y_Social = get_Y_Data('社会',len(train_X_Social),len(test_X_Social))
+    train_X_Finance, test_X_Finance = get_X_Data('财经')
+    train_Y_Finance, test_Y_Finance = get_Y_Data('财经',len(train_X_Finance),len(test_X_Finance))
 
     train_X = torch.tensor(np.vstack([train_X_PE, train_X_Social, train_X_Finance]))
     train_Y = torch.tensor(np.vstack([train_Y_PE, train_Y_Social, train_Y_Finance]))

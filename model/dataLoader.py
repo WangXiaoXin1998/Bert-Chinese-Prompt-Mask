@@ -30,12 +30,7 @@ def get_X_Data(newsType):
     return X_data2id(train_X), X_data2id(test_X)
 
 def get_Y_Data(newsType,len_train=0,len_test=0):
-    if newsType == 'PE':
-        templete = tokenizer.convert_tokens_to_ids(tokenizer.tokenize('体育'))
-    elif newsType == 'Social':
-        templete = tokenizer.convert_tokens_to_ids(tokenizer.tokenize('社会'))
-    elif newsType == 'Finance':
-        templete = tokenizer.convert_tokens_to_ids(tokenizer.tokenize('财经'))
+    templete = tokenizer.convert_tokens_to_ids(tokenizer.tokenize(newsType))
     train_Y = []
     test_Y = []
     for i in range(len_train):
