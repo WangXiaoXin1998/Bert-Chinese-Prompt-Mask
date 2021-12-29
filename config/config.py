@@ -3,6 +3,6 @@ path = {
     'data': 'data/'
 }
 templete = '这是[MASK][MASK]新闻。'
-device = 'cpu'
+device = 'cuda'
 epoch = 20
 maxlength = 220
