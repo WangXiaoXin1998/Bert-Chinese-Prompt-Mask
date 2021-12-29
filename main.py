@@ -50,7 +50,8 @@ if __name__ == '__main__':
     
     net = PromptMask()
     device = torch.device(device)
-
+    net = net.to(device)
+    
     optimizer = optim.Adam(net.parameters(), lr=1e-5)
     
     for i in range(epoch):
