@@ -1,24 +1,32 @@
-from config.config import path, templete, maxlength
+from config.config import path, templete, maxlength, dataSize
 import os
 from pytorch_transformers import BertTokenizer
 import numpy as np
+import random
 
 tokenizer = BertTokenizer.from_pretrained(path["pretrained"])
 
 def get_X_Data(newsType):
     data_path = path['data']
+    train_size = dataSize['train']
+    test_size = dataSize['test']
+    dataSet = []
     train_X = []
-    test_X = []
-    for root, dirs, files in os.walk(data_path+'Train_'+newsType):
+    test_X = []   
+    for root, dirs, files in os.walk(data_path+newsType):
         for f in files:
             with open(os.path.join(root, f), "r", encoding='utf-8') as news:  # 打开文件
                 data = news.read().replace('\n','').replace('　','')  # 读取文件
-                train_X.append('[CLS] '+data[0:maxlength]+' [SEP] [SEP] ' + templete + ' [SEP]')
-    for root, dirs, files in os.walk(data_path+'Test_'+newsType):
-        for f in files:
-            with open(os.path.join(root, f), "r", encoding='utf-8') as news:  # 打开文件
-                data = news.read().replace('\n','').replace('　','')  # 读取文件
-                test_X.append('[CLS] '+data[0:maxlength]+' [SEP] [SEP] ' + templete + ' [SEP]')
+                dataSet.append('[CLS] '+data[0:maxlength]+' [SEP] [SEP] ' + templete + ' [SEP]')
+    train_id = random.sample(range(0,len(dataSet)-1),train_size)
+    test_id = random.sample(range(0,len(dataSet)-1),test_size+train_size)
+    for i in train_id:
+        train_X.append(dataSet[i])
+    for i in test_id:
+        if not i in train_id:
+            test_X.append(dataSet[i])
+        if len(test_X) >= test_size:
+            break
     return X_data2id(train_X), X_data2id(test_X)
 
 def get_Y_Data(newsType,len_train=0,len_test=0):

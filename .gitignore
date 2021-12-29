@@ -1,6 +1,7 @@
 __pycache__/
-Finance/
-PE/
-Social/
 output/
 *.bin
+
+Finance_All/
+PE_All/
+Social_All/
