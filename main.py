@@ -1,5 +1,6 @@
 from config.config import path, templete, device, epoch
 import os
+import random
 import numpy as np
 from torch.utils.data import DataLoader, TensorDataset
 import torch
@@ -10,10 +11,8 @@ import torch.optim as optim
 import torch.nn as nn
 from torch.autograd import Variable
 
-average_acc = 0
-seeds = [10]
 
-if __name__ == '__main__':
+def run_bert(device):
     train_X_PE, test_X_PE = get_X_Data('PE')
     train_Y_PE, test_Y_PE = get_Y_Data('PE',len(train_X_PE),len(test_X_PE))
     train_X_Social, test_X_Social = get_X_Data('Social')
@@ -49,9 +48,8 @@ if __name__ == '__main__':
     print(loader_test)
     
     net = PromptMask()
-    device = torch.device(device)
     net = net.to(device)
-    
+    acc = 0
     optimizer = optim.Adam(net.parameters(), lr=1e-5)
     
     for i in range(epoch):
@@ -125,3 +123,23 @@ if __name__ == '__main__':
                 for j in range(len(label_out)):
                     file.write(str(label_out[j]))
                     file.write('\n')
+    return acc
+
+def setup_seed(seed):
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed_all(seed)
+    np.random.seed(seed)
+    random.seed(seed)
+    torch.backends.cudnn.deterministic = True
+
+if __name__ == '__main__':
+    average_acc = 0
+    seeds = [10, 100, 1000, 2000, 4000]
+    for seed in seeds:
+        setup_seed(seed)
+        os.environ["TOKENIZERS_PARALLELISM"] = "true"
+        os.environ["CUDA_VISIBLE_DEVICES"] = str(0)
+        device = torch.device(device)
+        average_acc += run_bert(device)
+    average_acc /= 5
+    print('average_acc:{}'.format(round(average_acc, 4),))
