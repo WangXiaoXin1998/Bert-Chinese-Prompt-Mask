@@ -106,8 +106,11 @@ def run_bert(seed, device):
 
             label_out = np.array(label_out)
             label_y = np.array(label_y)
-
-            acc = (np.sum(label_y == label_out)) / len(label_y)
+            label_out = label_out.reshape([int(len(label_out)/2),2])
+            label_y = label_y.reshape([int(len(label_y)/2),2])
+            for i in range(len(label_out)):
+                acc += 1 if all(label_out[i] == label_y[i]) else 0
+            acc = acc / len(label_out)
             print('------------------ epoch:{} ----------------'.format(i + 1))
             print('test_acc:{}, time:{}'.format( round(acc, 4), time.time()-time0))
             print('============================================'.format(i + 1))
