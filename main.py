@@ -1,4 +1,4 @@
-from config.config import path, templete, device, epoch
+from config.config import device, epoch
 import os
 import random
 import numpy as np
@@ -85,7 +85,6 @@ def run_bert(seed, device):
         if (i + 1) % epoch == 0:
             label_out, label_y = [], []
             print('-------------------------   test   ------------------------------')
-            sum_acc, num = 0, 0
             # torch.save(net.state_dict(), 'save_model/params' + str(i + 1) + '.pkl')
             for batch_x, batch_y in loader_test:
                 net.eval()
